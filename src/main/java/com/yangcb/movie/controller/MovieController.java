@@ -13,6 +13,7 @@ import com.yangcb.movie.domain.Movie;
 import com.yangcb.movie.service.MovieService;
 import com.yangcb.movie.vo.MovieVO;
 // 张三的提交
+//李四
 @Controller
 public class MovieController {
 	@Resource
