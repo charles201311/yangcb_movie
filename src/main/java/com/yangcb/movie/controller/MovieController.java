@@ -19,7 +19,7 @@ public class MovieController {
 	private MovieService movieService;
 	
 	public void test1() {
-		
+		System.out.println("aaaaaa");//1712d改变
 	}
 	
 	/**
