@@ -18,6 +18,10 @@ public class MovieController {
 	@Resource
 	private MovieService movieService;
 	
+	public void test1() {
+		
+	}
+	
 	/**
 	 * 
 	 * @Title: selects 
